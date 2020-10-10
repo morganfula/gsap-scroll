@@ -31,9 +31,8 @@ header h1 {
 }
 
 .rocket {
-  height: 200px;
+  height: 40px;
   top: 50%;
-  left: 8%;
+  left: 0%;
   position: absolute;
-  transform: rotate(90deg);
 }
